@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d806b705-871e-4d16-b290-a5c6ebfb01a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="170" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XrOFkMBzIcDTJv09MaGivwbMui" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaRushTasks/2.JavaCore/src/com/javarush/task/task18/task1817/Solution.java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calc" />
+      <module name="Calc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d806b705-871e-4d16-b290-a5c6ebfb01a2" name="Default Changelist" comment="" />
+      <created>1581800644894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581800644894</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="267" key="FileChooserDialogImpl" timestamp="1581804745403">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="420" y="267" key="FileChooserDialogImpl/0.0.1280.1024@0.0.1280.1024" timestamp="1581804745403" />
+    <state width="1200" height="269" key="GridCell.Tab.0.bottom" timestamp="1581855254719">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="269" key="GridCell.Tab.0.bottom/0.0.1280.1024@0.0.1280.1024" timestamp="1581855254719" />
+    <state width="1200" height="269" key="GridCell.Tab.0.center" timestamp="1581855254719">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="269" key="GridCell.Tab.0.center/0.0.1280.1024@0.0.1280.1024" timestamp="1581855254719" />
+    <state width="1200" height="269" key="GridCell.Tab.0.left" timestamp="1581855254719">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="269" key="GridCell.Tab.0.left/0.0.1280.1024@0.0.1280.1024" timestamp="1581855254719" />
+    <state width="1200" height="269" key="GridCell.Tab.0.right" timestamp="1581855254719">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="269" key="GridCell.Tab.0.right/0.0.1280.1024@0.0.1280.1024" timestamp="1581855254719" />
+    <state width="1200" height="237" key="GridCell.Tab.1.bottom" timestamp="1581855106884">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="237" key="GridCell.Tab.1.bottom/0.0.1280.1024@0.0.1280.1024" timestamp="1581855106884" />
+    <state width="1200" height="237" key="GridCell.Tab.1.center" timestamp="1581855106884">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="237" key="GridCell.Tab.1.center/0.0.1280.1024@0.0.1280.1024" timestamp="1581855106884" />
+    <state width="1200" height="237" key="GridCell.Tab.1.left" timestamp="1581855106884">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="237" key="GridCell.Tab.1.left/0.0.1280.1024@0.0.1280.1024" timestamp="1581855106884" />
+    <state width="1200" height="237" key="GridCell.Tab.1.right" timestamp="1581855106884">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1200" height="237" key="GridCell.Tab.1.right/0.0.1280.1024@0.0.1280.1024" timestamp="1581855106884" />
+    <state x="341" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1581845756470">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="341" y="336" key="com.intellij.ide.util.TipDialog/0.0.1280.1024@0.0.1280.1024" timestamp="1581845756470" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/StringToInt.java</url>
+          <line>5</line>
+          <properties class="StringToInt" method="toArabic">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Calc.java</url>
+          <line>7</line>
+          <properties class="Calc" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Calc$Calc.ic" NAME="Calc Coverage Results" MODIFIED="1581846193969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
